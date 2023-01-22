@@ -1,2 +1,3 @@
 # Introduction
-Bio about me!
+
+Hello there! My name is Yurian Ragil, but you can call me Yuri. I am currently a 2nd-semester physics major student at UNPAR. In addition to my studies, I am also a self taught junior software engineer and a Unity game developer. I have technical background with proficiency in programming languages such as C#, Python, JavaScript, HTML, and CSS. I am currently working on several projects to add to my portfolio, in order to expand my skills and experience. My main focus is on game development using pixel art, however, I also possess skills in other areas such as UI/UX design, web development, and data science.
